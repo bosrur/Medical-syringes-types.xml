@@ -1,0 +1,186 @@
+флакон с препаратом:
+Fruck_InjectionViaL25
+Fruck_InjectionViaL50
+Fruck_InjectionViaL75
+Fruck_InjectionViaL100
+готовый стимулятор:
+Fruck_Syring_healt25
+Fruck_Syring_healt50
+Fruck_Syring_healt75
+Fruck_Syring_healt100
+шприц с раствором:
+Fruck_SyringNe25
+Fruck_SyringNe50
+Fruck_SyringNe75
+Fruck_SyringNe100
+
+Types.xml
+																				НАСТРОЙ СЕБЕ СПАВН  
+  <type name="Fruck_InjectionViaL25">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>2300</restock>
+    <min>5</min>
+    <quantmin>10</quantmin>
+    <quantmax>50</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Medic" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+  </type>
+  <type name="Fruck_InjectionViaL50">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>2300</restock>
+    <min>5</min>
+    <quantmin>10</quantmin>
+    <quantmax>50</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Medic" />
+    <tag name="shelves" />
+    <value name="Tier2" />
+  </type>
+  <type name="Fruck_InjectionViaL75">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>2300</restock>
+    <min>5</min>
+    <quantmin>10</quantmin>
+    <quantmax>50</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Medic" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+  </type>
+  <type name="Fruck_InjectionViaL100">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>2300</restock>
+    <min>5</min>
+    <quantmin>10</quantmin>
+    <quantmax>50</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Medic" />
+    <tag name="shelves" />
+    <value name="Tier4" />
+  </type>
+  <type name="Fruck_Syring_healt25">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>2300</restock>
+    <min>0</min>
+    <quantmin>10</quantmin>
+    <quantmax>50</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Medic" />
+    <tag name="shelves" />
+    <value name="Tier4" />
+  </type>
+  <type name="Fruck_Syring_healt50">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>2300</restock>
+    <min>0</min>
+    <quantmin>10</quantmin>
+    <quantmax>50</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Medic" />
+    <tag name="shelves" />
+    <value name="Tier4" />
+  </type>
+  <type name="Fruck_Syring_healt75">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>2300</restock>
+    <min>0</min>
+    <quantmin>10</quantmin>
+    <quantmax>50</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Medic" />
+    <tag name="shelves" />
+    <value name="Tier4" />
+  </type>
+  <type name="Fruck_Syring_healt100">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>2300</restock>
+    <min>0</min>
+    <quantmin>10</quantmin>
+    <quantmax>50</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Medic" />
+    <tag name="shelves" />
+    <value name="Tier4" />
+</type>
+  <type name="Fruck_SyringNe25">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>2300</restock>
+    <min>0</min>
+    <quantmin>10</quantmin>
+    <quantmax>50</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Medic" />
+    <tag name="shelves" />
+    <value name="Tier4" />
+  </type>
+  <type name="Fruck_SyringNe50">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>2300</restock>
+    <min>0</min>
+    <quantmin>10</quantmin>
+    <quantmax>50</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Medic" />
+    <tag name="shelves" />
+    <value name="Tier4" />
+  </type>
+  <type name="Fruck_SyringNe75">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>2300</restock>
+    <min>0</min>
+    <quantmin>10</quantmin>
+    <quantmax>50</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Medic" />
+    <tag name="shelves" />
+    <value name="Tier4" />
+  </type>
+  <type name="Fruck_SyringNe100">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>2300</restock>
+    <min>0</min>
+    <quantmin>10</quantmin>
+    <quantmax>50</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Medic" />
+    <tag name="shelves" />
+    <value name="Tier4" />
+  </type>

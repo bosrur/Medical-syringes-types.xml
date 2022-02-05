@@ -1,1 +1,15 @@
-# Medical-syringes-types.xml
+флакон с препаратом:
+Fruck_InjectionViaL25
+Fruck_InjectionViaL50
+Fruck_InjectionViaL75
+Fruck_InjectionViaL100
+готовый стимулятор:
+Fruck_Syring_healt25
+Fruck_Syring_healt50
+Fruck_Syring_healt75
+Fruck_Syring_healt100
+шприц с раствором:
+Fruck_SyringNe25
+Fruck_SyringNe50
+Fruck_SyringNe75
+Fruck_SyringNe100
